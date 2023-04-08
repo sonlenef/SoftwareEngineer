@@ -1,4 +1,4 @@
-[![Header Banner](https://github.com/DestinedCodes/DestinedCodes/blob/main/images/Dark%20Purple%20Modern%20Twitter%20Header.png)](https://github.com/DestinedCodes/DestinedCodes/edit/main/README.md#hi-im-destiny--)
+[![Header Banner](images/banner.jpeg)](https://github.com/sonlenef/SoftwareEngineer)
 
 ## Hi, I'm SonLe 👋🏽 👨🏽‍💻
 I'm a mobile developer with a passion for software engineering. I'm also researching more things as artificial intelligence (AI) and cyber-security to expand my skill set and stay up to date with the latest trends and technologies. I'm enthusiastic about learning more about machine learning algorithms, natural language processing, security protocols, and computer vision. Let's connect and collaborate to solve challenging problems in software engineering!
