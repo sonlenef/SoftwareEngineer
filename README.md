@@ -46,6 +46,6 @@ I'm a mobile developer with a passion for software engineering. I'm also researc
 
 ### 📊 Github Stats
 <p align="justify" width="100%">
-     <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonlenef&theme=transparent&show_icons=true&locale=en" alt="SonLe's  Github stats" width="auto" />
-     <img valign="top" alt="Destiny Saturday's language Stats" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonlenef&theme=transparent&layout=compact&langs_count=8" width="auto"/>
+     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonlenef&theme=transparent&show_icons=true&locale=en" alt="SonLe's  Github stats" width="auto" />
+     <img valign="top" alt="Destiny Saturday's language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonlenef&theme=transparent&layout=compact&langs_count=8" width="auto"/>
 </p>
